@@ -1,7 +1,7 @@
 body {
   background-color: black;
-  text-align: center;
   font-family: verdana;
+  text-align: center;
 }
 
 h1 {
@@ -18,10 +18,15 @@ h3 {
   font-weight: 300;
   font-size: 42px;
   color: white;
-
 }
 
 h4 {
+  font-size: 21px;
+  color: gray;
+}
+
+h5 {
+  text-align: right;
   font-size: 21px;
   color: gray;
 }
